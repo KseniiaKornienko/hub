@@ -2,4 +2,5 @@ track TestTrack
 type bed
 bigDataUrl https://raw.githubusercontent.com/KseniiaKornienko/hub/main/hg38/data/DNABERT2_G4_hg38.bed
 shortLabel Test
+longLabel Important BED Data
 visibility dense
