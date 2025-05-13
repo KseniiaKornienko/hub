@@ -1,5 +1,5 @@
 track MyBedTrack
-type bed 3
+type bed 
 bigDataUrl https://raw.githubusercontent.com/KseniiaKornienko/hub/refs/heads/main/hg38/data/DNABERT2_G4_hg38.bed
 shortLabel My BED
 longLabel Important BED Data
