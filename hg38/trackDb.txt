@@ -1,7 +1,5 @@
-track MyBedTrack
-type bed 
-bigDataUrl https://raw.githubusercontent.com/KseniiaKornienko/hub/refs/heads/main/hg38/data/DNABERT2_G4_hg38.bed
-shortLabel My BED
-longLabel Important BED Data
-visibility pack
-color 255,0,0
+track TestTrack
+type bed
+bigDataUrl https://raw.githubusercontent.com/KseniiaKornienko/hub/main/hg38/data/DNABERT2_G4_hg38.bed
+shortLabel Test
+visibility dense
