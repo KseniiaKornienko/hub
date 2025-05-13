@@ -1,6 +1,6 @@
 track MyBedTrack
 type bed 3
-bigDataUrl https://example.com/data/myfile.bed
+bigDataUrl https://raw.githubusercontent.com/KseniiaKornienko/hub/refs/heads/main/hg38/data/DNABERT2_G4_hg38.bed?token=GHSAT0AAAAAADCUEQNPHGC4QKVJP5KFZ5Q62BDX73Q
 shortLabel My BED
 longLabel Important BED Data
 visibility pack
