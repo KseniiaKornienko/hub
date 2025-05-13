@@ -1,5 +1,5 @@
 hub LaboratoryOfBioinformaticsHab
 shortLabel My Hub
 longLabel Detailed Description of My Track Hub
-genomesFile /genomes.txt
+genomesFile genomes.txt
 email kkkornienko@edu.hse.ru
