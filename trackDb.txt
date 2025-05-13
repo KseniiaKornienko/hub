@@ -1,8 +1,1 @@
-track MyBedTrack
-type bed 3
-bigDataUrl https://example.com/data/myfile.bed
-shortLabel My BED
-longLabel Important BED Data
-visibility pack
-color 255,0,0
-priority 1
+
